@@ -34,4 +34,6 @@ install zeal
 install ohmyposh
 
 
-use openark https://github.com/BlackINT3/OpenArk
+use [openark](https://github.com/BlackINT3/OpenArk)
+
+[winutil](https://github.com/ChrisTitusTech/winutil)
