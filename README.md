@@ -32,3 +32,6 @@ install https://github.com/ChrisTitusTech/winutil
 install system informer
 install zeal
 install ohmyposh
+
+
+use openark https://github.com/BlackINT3/OpenArk
