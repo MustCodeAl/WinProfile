@@ -37,4 +37,6 @@ install ohmyposh
 
 use [openark](https://github.com/BlackINT3/OpenArk)
 
+install cascadio mono thru powershell
+
 
