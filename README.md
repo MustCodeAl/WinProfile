@@ -38,22 +38,32 @@ install zeal
 install ohmyposh
 install linear 
 install blender
+install clipgrap
+install mremoteng
+install github desktop
+install winscp
+install windowes system internals
+install masscode
+install lazyvim 
+install wezterm
+
+
 astah 
 file zilla
 neovim qt
 obs
-
+gvim
 fix env variables
 
 
 use [openark](https://github.com/BlackINT3/OpenArk)
 
 install hxd cheatengine
+install calibre
 
 
 
 
-
-install cascadio mono thru powershell
+install cascadio mono thru powershell (oh my posjh)
 
 
