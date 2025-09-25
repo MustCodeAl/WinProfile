@@ -7,7 +7,7 @@ use [mas](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 and get 11 enterprise
 
-enable hyper v, wsl(ubuntu), containers, dev drive. use dev containers from docker or jetbrains ides
+enable hyper v, wsl(ubuntu), containers, [dev drive](https://learn.microsoft.com/en-us/windows/dev-drive/) . use dev containers from docker or jetbrains ides
 install 
 
 Install visual studio through dev drive
