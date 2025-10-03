@@ -12,6 +12,8 @@ install
 
 Install visual studio through dev drive
 in visual studio install desktop c++, netframework, python, and node
+then follow tutorial for c++ dev setup
+and docker setup
 install winget, chocolately
 
 install mullvad
@@ -29,6 +31,20 @@ install superproducitivity app
 
 install cmder 
 install clink gizmo
+install filezilla
+install virtualbox
+install neovimqt
+install visualstudio code insiders
+install rustrover
+install nvcleaninstall
+install mpc-hc x64
+install system informer
+install heroic
+install windirstat
+install wireshark
+install protmaster
+install devtoys
+install powertoys
 
 
 install [winutil](https://github.com/ChrisTitusTech/winutil)
@@ -46,6 +62,9 @@ install windowes system internals
 install masscode
 install lazyvim 
 install wezterm
+install chrome through wsl
+and warp through wsl
+
 
 
 astah 
