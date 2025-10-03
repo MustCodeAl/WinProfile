@@ -1,0 +1,332 @@
+{
+  "WPFTweaks": [
+    "WPFTweaksAH",
+    "WPFTweaksDVR",
+    "WPFTweaksHome",
+    "WPFTweaksDisableBGapps",
+    "WPFTweaksDisableWpbtExecution",
+    "WPFTweaksDebloatAdobe",
+    "WPFTweaksDisableFSO",
+    "WPFTweaksDisableCrossDeviceResume"
+  ],
+  "WPFInstall": [
+    "WPFInstallcalibre",
+    "WPFInstallonedrive",
+    "WPFInstallrustlang",
+    "WPFInstallvisualstudio",
+    "WPFInstallblender",
+    "WPFInstallunity",
+    "WPFInstallteams",
+    "WPFInstallvagrant",
+    "WPFInstallobs",
+    "WPFInstalldmt",
+    "WPFInstallmullvadvpn",
+    "WPFInstallsteam",
+    "WPFInstallpowertoys",
+    "WPFInstallcopyq",
+    "WPFInstallgitkrakenclient",
+    "WPFInstallzoxide",
+    "WPFInstallmpchc",
+    "WPFInstallwingetui",
+    "WPFInstallclink",
+    "WPFInstallgithubcli",
+    "WPFInstalldiscord",
+    "WPFInstallhwmonitor",
+    "WPFInstallwireshark",
+    "WPFInstallposh",
+    "WPFInstallanki",
+    "WPFInstalldockerdesktop",
+    "WPFInstallmasscode",
+    "WPFInstallnvm",
+    "WPFInstallklite",
+    "WPFInstallhwinfo",
+    "WPFInstallautohotkey",
+    "WPFInstallhandbrake",
+    "WPFInstallnotepadplus",
+    "WPFInstallneovim",
+    "WPFInstallOVirtualBox",
+    "WPFInstallwinscp",
+    "WPFInstallytdlp",
+    "WPFInstallheroiclauncher",
+    "WPFInstallbat",
+    "WPFInstallxeheditor",
+    "WPFInstallcmake",
+    "WPFInstallmremoteng",
+    "WPFInstalldevtoys",
+    "WPFInstall7zip",
+    "WPFInstallwezterm",
+    "WPFInstallputty",
+    "WPFInstallbrave",
+    "WPFInstallnvclean",
+    "WPFInstallvscode",
+    "WPFInstallripgrep",
+    "WPFInstallPortmaster",
+    "WPFInstalljetbrains",
+    "WPFInstallditto",
+    "WPFInstalledge",
+    "WPFInstalllibrewolf",
+    "WPFInstallwindowspchealth",
+    "WPFInstallsdio",
+    "WPFInstallpowershell",
+    "WPFInstallqbittorrent",
+    "WPFInstallfzf",
+    "WPFInstallterminal",
+    "WPFInstallgit",
+    "WPFInstallmullvadbrowser"
+  ],
+  "WPFFeature": [],
+  "Install": [
+    {
+      "winget": "calibre.calibre",
+      "choco": "calibre"
+    },
+    {
+      "winget": "Microsoft.OneDrive",
+      "choco": "onedrive"
+    },
+    {
+      "winget": "Rustlang.Rust.MSVC",
+      "choco": "rust"
+    },
+    {
+      "winget": "Microsoft.VisualStudio.2022.Community",
+      "choco": "visualstudio2022community"
+    },
+    {
+      "winget": "BlenderFoundation.Blender",
+      "choco": "blender"
+    },
+    {
+      "winget": "Unity.UnityHub",
+      "choco": "unityhub"
+    },
+    {
+      "winget": "Microsoft.Teams",
+      "choco": "microsoft-teams"
+    },
+    {
+      "winget": "Hashicorp.Vagrant",
+      "choco": "vagrant"
+    },
+    {
+      "winget": "OBSProject.OBSStudio",
+      "choco": "obs-studio"
+    },
+    {
+      "winget": "GNE.DualMonitorTools",
+      "choco": "dual-monitor-tools"
+    },
+    {
+      "winget": "MullvadVPN.MullvadVPN",
+      "choco": "mullvad-app"
+    },
+    {
+      "winget": "Valve.Steam",
+      "choco": "steam-client"
+    },
+    {
+      "winget": "Microsoft.PowerToys",
+      "choco": "powertoys"
+    },
+    {
+      "winget": "hluk.CopyQ",
+      "choco": "copyq"
+    },
+    {
+      "winget": "Axosoft.GitKraken",
+      "choco": "gitkraken"
+    },
+    {
+      "winget": "ajeetdsouza.zoxide",
+      "choco": "zoxide"
+    },
+    {
+      "winget": "clsid2.mpc-hc",
+      "choco": "mpc-hc-clsid2"
+    },
+    {
+      "winget": "MartiCliment.UniGetUI",
+      "choco": "wingetui"
+    },
+    {
+      "winget": "chrisant996.Clink",
+      "choco": "clink"
+    },
+    {
+      "winget": "GitHub.cli",
+      "choco": "git;gh"
+    },
+    {
+      "winget": "Discord.Discord",
+      "choco": "discord"
+    },
+    {
+      "winget": "CPUID.HWMonitor",
+      "choco": "hwmonitor"
+    },
+    {
+      "winget": "WiresharkFoundation.Wireshark",
+      "choco": "wireshark"
+    },
+    {
+      "winget": "JanDeDobbeleer.OhMyPosh",
+      "choco": "oh-my-posh"
+    },
+    {
+      "winget": "Anki.Anki",
+      "choco": "anki"
+    },
+    {
+      "winget": "Docker.DockerDesktop",
+      "choco": "docker-desktop"
+    },
+    {
+      "winget": "antonreshetov.massCode",
+      "choco": "na"
+    },
+    {
+      "winget": "CoreyButler.NVMforWindows",
+      "choco": "nvm"
+    },
+    {
+      "winget": "CodecGuide.K-LiteCodecPack.Standard",
+      "choco": "k-litecodecpack-standard"
+    },
+    {
+      "winget": "REALiX.HWiNFO",
+      "choco": "hwinfo"
+    },
+    {
+      "winget": "AutoHotkey.AutoHotkey",
+      "choco": "autohotkey"
+    },
+    {
+      "winget": "HandBrake.HandBrake",
+      "choco": "handbrake"
+    },
+    {
+      "winget": "Notepad++.Notepad++",
+      "choco": "notepadplusplus"
+    },
+    {
+      "winget": "Neovim.Neovim",
+      "choco": "neovim"
+    },
+    {
+      "winget": "Oracle.VirtualBox",
+      "choco": "virtualbox"
+    },
+    {
+      "winget": "WinSCP.WinSCP",
+      "choco": "winscp"
+    },
+    {
+      "winget": "yt-dlp.yt-dlp",
+      "choco": "yt-dlp"
+    },
+    {
+      "winget": "HeroicGamesLauncher.HeroicGamesLauncher",
+      "choco": "na"
+    },
+    {
+      "winget": "sharkdp.bat",
+      "choco": "bat"
+    },
+    {
+      "winget": "MHNexus.HxD",
+      "choco": "HxD"
+    },
+    {
+      "winget": "Kitware.CMake",
+      "choco": "cmake"
+    },
+    {
+      "winget": "mRemoteNG.mRemoteNG",
+      "choco": "mremoteng"
+    },
+    {
+      "winget": "DevToys-app.DevToys",
+      "choco": "devtoys"
+    },
+    {
+      "winget": "7zip.7zip",
+      "choco": "7zip"
+    },
+    {
+      "winget": "wez.wezterm",
+      "choco": "wezterm"
+    },
+    {
+      "winget": "PuTTY.PuTTY",
+      "choco": "putty"
+    },
+    {
+      "winget": "Brave.Brave",
+      "choco": "brave"
+    },
+    {
+      "winget": "TechPowerUp.NVCleanstall",
+      "choco": "na"
+    },
+    {
+      "winget": "Microsoft.VisualStudioCode",
+      "choco": "vscode"
+    },
+    {
+      "winget": "BurntSushi.ripgrep.MSVC",
+      "choco": "ripgrep"
+    },
+    {
+      "winget": "Safing.Portmaster",
+      "choco": "portmaster"
+    },
+    {
+      "winget": "JetBrains.Toolbox",
+      "choco": "jetbrainstoolbox"
+    },
+    {
+      "winget": "Ditto.Ditto",
+      "choco": "ditto"
+    },
+    {
+      "winget": "Microsoft.Edge",
+      "choco": "microsoft-edge"
+    },
+    {
+      "winget": "LibreWolf.LibreWolf",
+      "choco": "librewolf"
+    },
+    {
+      "winget": "Microsoft.WindowsPCHealthCheck",
+      "choco": "na"
+    },
+    {
+      "winget": "GlennDelahoy.SnappyDriverInstallerOrigin",
+      "choco": "sdio"
+    },
+    {
+      "winget": "Microsoft.PowerShell",
+      "choco": "powershell-core"
+    },
+    {
+      "winget": "qBittorrent.qBittorrent",
+      "choco": "qbittorrent"
+    },
+    {
+      "winget": "junegunn.fzf",
+      "choco": "fzf"
+    },
+    {
+      "winget": "Microsoft.WindowsTerminal",
+      "choco": "microsoft-windows-terminal"
+    },
+    {
+      "winget": "Git.Git",
+      "choco": "git"
+    },
+    {
+      "winget": "MullvadVPN.MullvadBrowser",
+      "choco": "na"
+    }
+  ]
+}
