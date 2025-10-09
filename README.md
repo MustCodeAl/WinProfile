@@ -80,6 +80,23 @@ use [openark](https://github.com/BlackINT3/OpenArk)
 install hxd cheatengine
 install calibre
 
+wsl setup: 
+
+follow these guides if you are using wsl:
+* https://docs.nvidia.com/ai-enterprise/deployment-guide-vmware/0.1.0/docker.html
+* https://docs.nvidia.com/cuda/wsl-user-guide/index.html
+* https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=WSL-Ubuntu&target_version=2.0&target_type=deb_local
+* https://github.com/wslutilities/wslu
+
+
+# wsl stuff
+$ sudo apt update && sudo apt install -y ubuntu-wsl xserver-common fontconfig libegl1 libwayland-egl1 libxcursor1 libxkbcommon-x11-0 fuse xsel xclip 
+
+# warpterm
+$ sudo apt install alsa-utils fonts-hack mesa-utils mesa-vulkan-drivers wl-clipboard wslu
+$ sudo apt install xserver-common xdg-desktop-portal xdg-desktop-portal-gtk xserver-xorg zenity
+
+
 
 
 
