@@ -90,13 +90,16 @@ follow these guides if you are using wsl:
 
 
 # wsl stuff
-$ sudo apt update && sudo apt install -y ubuntu-wsl xserver-common fontconfig libegl1 libwayland-egl1 libxcursor1 libxkbcommon-x11-0 fuse xsel xclip 
+`$ sudo apt update && sudo apt install -y ubuntu-wsl xserver-common fontconfig libegl1 libwayland-egl1 libxcursor1 libxkbcommon-x11-0 fuse xsel xclip`
 
 # warpterm
-$ sudo apt install alsa-utils fonts-hack mesa-utils mesa-vulkan-drivers wl-clipboard wslu
-$ sudo apt install xserver-common xdg-desktop-portal xdg-desktop-portal-gtk xserver-xorg zenity
+`$ sudo apt install alsa-utils fonts-hack mesa-utils mesa-vulkan-drivers wl-clipboard wslu`
+`$ sudo apt install xserver-common xdg-desktop-portal xdg-desktop-portal-gtk xserver-xorg zenity`
 
 
+# to shrink wsl 
+`$ sudo fstrim -v /`
+`$ sudo apt clean && sudo apt autoremove` 
 
 
 
